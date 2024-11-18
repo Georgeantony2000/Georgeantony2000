@@ -1,8 +1,8 @@
 - 👋 Hi, I’m George Antony
 - 👀 I’m interested in Embedded System 
 - 🌱 I’m currently Working as Embedded System Engineer 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by georgeantonyjenny@gmail.com 
+- 💞️ I’m looking to collaborate 
+- 📫 Reach me by georgeantonyjenny@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
